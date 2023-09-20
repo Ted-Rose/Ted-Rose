@@ -21,7 +21,7 @@
    - E-commerce website with a random subscription form built in order to learn <strong>PHP OOP, React and CSS</strong>
 
 - https://github.com/Ted-Rose/sass_library
-   - A personal <strong>SASS</strong> library that is being continually updated
+   - A personal <strong>SASS</strong> library that is being continually updated (contains good React work as well)
 
 - https://github.com/Ted-Rose/Django_course
    - Learning <strong>Django</strong> to get a broader perspective of Back End development
