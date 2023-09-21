@@ -16,12 +16,13 @@
 
 - https://github.com/Ted-Rose/team_challenge
    - App for team games that is being built in order to learn <strong>Laravel and advanced React</strong>
-
-- https://github.com/Ted-Rose/tedis-project
-   - E-commerce website with a random subscription form built in order to learn <strong>PHP OOP, React and CSS</strong>
-
+   
 - https://github.com/Ted-Rose/sass_library/tree/css_to_sass_for_form
    - A personal <strong>SASS</strong> library that is being continually updated (contains good <strong>React</strong> work as well)
+
+- https://github.com/Ted-Rose/tedis-project
+   - E-commerce website with a random subscription form built in order to learn <strong>PHP OOP, React and CSS</strong> (old project)
+
 
 - https://github.com/Ted-Rose/Django_course
    - Learning <strong>Django</strong> to get a broader perspective of Back End development
