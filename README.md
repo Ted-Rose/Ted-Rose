@@ -17,6 +17,9 @@
 - https://github.com/Ted-Rose/team_challenge
    - App for team games that is being built in order to learn <strong>Laravel and advanced React</strong>
    
+- https://github.com/Ted-Rose/my-first-rails-app
+   - Started exploring Ruby on Rails
+
 - https://github.com/Ted-Rose/sass_library/tree/css_to_sass_for_form
    - A personal <strong>SASS</strong> library that is being continually updated (contains good <strong>React</strong> work as well)
 
