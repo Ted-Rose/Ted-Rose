@@ -13,6 +13,8 @@
 
 <h3>Some of my projects:</h3>
 
+- https://github.com/Ted-Rose/finance-consultant
+   - AI Finance Consultant built using self hosted AI model [Ollama](https://ollama.com/) together with Python's django, [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) for speech recognition and [gTTS](https://pypi.org/project/gTTS/) for text to speech transformation
 
 - https://github.com/Ted-Rose/team_challenge
    - App for team games that is being built in order to learn <strong>Laravel and advanced React</strong>
