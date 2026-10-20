@@ -1,7 +1,7 @@
 # Hi, I'm Tedis Rozenfelds
 
 Former Quality Manager turned software engineer. By day I work in a
-fintech where ~150 engineers build on a microservices architecture —
+fintech where ~150 Ruby on Rails engineers build on a microservices architecture —
 and after hours I keep shipping the full-stack hobby projects you'll
 find below, spanning Python/Django, React/TypeScript and PHP/Laravel,
 with a focus on AI-powered tooling and real-time geospatial apps.
