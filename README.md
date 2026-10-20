@@ -52,10 +52,25 @@ infrastructure.
 `Python` `Django` `Web scraping` `Terraform` `GCP`
 
 ### [Django Apps](https://github.com/Ted-Rose/django-apps)
-Collection of standalone Django mini-apps — including Gmail-to-audio,
-which fetches your inbox and reads it aloud. Deployed via
-Vercel/PythonAnywhere with GitHub Actions pipelines.
-`Python` `Django` `REST API` `CI/CD`
+A multi-app personal platform — one Django project serving several
+feature apps on a shared Google OAuth2 integration, fronted by a
+multi-entry React/TypeScript SPA (Vite) with bilingual lv/en i18n,
+PWA support and Playwright e2e tests.
+
+- **Finance** — open-banking aggregation via the GoCardless Bank
+  Account Data API: link accounts, sync transactions,
+  auto-categorize with rules, spending limits and balance alerts
+  with web-push notifications.
+- **Gmail to Audio** — fetches Gmail messages, applies per-sender
+  parsing rules and reads them aloud through a queued TTS player.
+- **Tasks** — a Google Tasks client with local-only extras:
+  starring, dividers, drag-and-drop reorder, undo/redo history and
+  productivity stats.
+- **Single Pages** — micro-apps like a Latvian Twister TTS
+  announcer and a sanitized article proxy.
+
+`Python` `Django` `django-ninja` `React` `TypeScript`
+`GoCardless` `Google APIs` `PWA` `Terraform` `GCP`
 
 ---
 
