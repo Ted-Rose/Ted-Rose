@@ -117,12 +117,6 @@ frontend work.
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ted-Rose)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ted-Rose)
-
 ## Connect
 
 - LinkedIn:
